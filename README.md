@@ -6,12 +6,10 @@ single sitting. Pure Canvas 2D + Web Audio synthesis — **zero external assets*
 
 ## Play
 
-Open `index.html` in any desktop browser (or serve the folder and open it).
-Chrome/Firefox/Edge/Safari, keyboard required.
+**Online: https://www.byte.lol/voidline/** (GitHub Pages · repo: [onekb/voidline](https://github.com/onekb/voidline))
 
-```
-python3 -m http.server 8642     # then visit http://localhost:8642/index.html
-```
+Or run locally: open `index.html` in any desktop browser, or `python3 -m http.server 8642`
+and visit `http://localhost:8642/index.html`. Chrome/Firefox/Edge/Safari, keyboard required.
 
 ## Language / 语言
 
@@ -70,6 +68,7 @@ Red is always danger. Gold is always reward. Your light is small; the dark is no
 | 项目 | 内容 |
 |---|---|
 | 开发日期 | 2026-10-08 |
+| 发布 | GitHub Pages：https://www.byte.lol/voidline/ · 仓库：onekb/voidline |
 | 模型 | **GLM-5.3-Flash**（Z.ai BigModel · bigmodel-individual-coding-plan） |
 | 智能体 / 工具 | ZCode（编码 + 浏览器自动化实机测试） |
 | 挑战规则 | 一小时内从零做出可玩的完整 Roguelite |
